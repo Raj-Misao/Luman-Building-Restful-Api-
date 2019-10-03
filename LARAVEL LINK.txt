@@ -1,0 +1,32 @@
+https://laraveldaily.com/9-things-you-can-customize-in-laravel-registration/
+
+https://www.youtube.com/watch?v=TLXCW8AuyUk
+
+login auth setup
+https://www.youtube.com/watch?v=Z67byiLeK-w
+
+http://www.5balloons.info/laravel-authentication-tutorial-login-logout-register-forgot-password-remember-me-functionality/
+
+https://vegibit.com/how-to-create-user-registration-in-laravel/
+
+Very IMP Link for auth email
+https://dev.to/rizwan_saquib/create--manage-user-registration-system-with-laravel-queues--supervisor-nl
+
+smtp mail satting 
+https://medium.com/@agavitalis/how-to-send-an-email-in-laravel-using-gmail-smtp-server-53d962f01a0c
+
+
+
+https://codeforgeek.com/mobile-number-verification-using-laravel/
+
+registration email verifaction
+https://www.youtube.com/watch?v=Ltan-Ywn7Ks
+
+
+
+artisan
+php artisan route:list
+
+
+This Task Link
+https://www.youtube.com/watch?v=7pDlHqgvFE0&list=PL9fcHFJHtFaYsMDS1juszLVKvq2DlAuYh&index=2
